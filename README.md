@@ -1,2 +1,3 @@
 # creative-coding-week-7
-this is forcreative coding class
+this is for creative coding class
+we learnt how to use github
